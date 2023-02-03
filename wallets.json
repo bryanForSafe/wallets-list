@@ -24,7 +24,7 @@
     "bridge": [
       {
         "type": "js",
-        "key": "safepal_ton"
+        "key": "safepal"
       }
     ]
   }
